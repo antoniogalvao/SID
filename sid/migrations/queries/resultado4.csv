@@ -1,0 +1,4 @@
+id_departamento,titulo,COUNT(professor.id_professor)
+1,"Departamento de Engenharia",6
+2,"Departamento de Matematica",4
+3,"Departamento de Fisica",4

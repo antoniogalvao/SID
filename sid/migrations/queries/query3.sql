@@ -1,0 +1,1 @@
+SELECT codigo, titulo, ementa FROM disciplina WHERE codigo = 'MAC118';

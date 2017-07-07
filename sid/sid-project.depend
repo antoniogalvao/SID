@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499455916 source:c:\users\antonio\desktop\tmab final\sid\main.cpp
+	<iostream>
+	<stdio.h>
+	<otlv4.h>
+
